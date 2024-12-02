@@ -25,6 +25,7 @@ By the successful completion of this course, students will be able to:
 
 ### Week 1: Intelligence: Metaphor, Imagination, Cognition (8/26)
 
+*Lecture/Discussion:* Framing/Understanding AI
 #### Assignment:
 
 Experiment 1: Generative AI Presentations
@@ -44,6 +45,8 @@ N. Katherine Hayles, *Unthought : The Power of the Cognitive Nonconscious -- Pro
 Discussion 1: Metaphor, Imagination, Cognition
 
 ### Week 2: Speculation: Myth, fiction, and popular culture (9/11)
+
+*Lecture/Discussion:* Framing/Understanding AI continues
 
 #### Assignment:
 
@@ -65,6 +68,8 @@ Discussion 2: Sociotechnical Imaginaries
 
 ### Week 3: Cultural History: How We Think (9/16)
 
+*Lecture/Discussion:* AI Imaginaries and Narratives
+
 #### Assignment:
 
 Experiment 3: AI History
@@ -85,7 +90,7 @@ Discussion 3: Foundational Documents
 
 ### Week 4: Computer "Vision" and Image Processes (9/23)
 
-Python, PIL and Scikit libraries Introduced 
+*Tutorial:* Python, PIL and Scikit libraries Introduced
 
 #### Assignment:
 
@@ -97,9 +102,15 @@ Discussion 4: Image Experiments
 
 ### Week 5: Natural Language Processing (9/30)
 
+*Tutorial:* Sentiment Analysis and ML Models (Logistic Regress, SVC, Random Forest, Naive Bayes)
+
 #### Assignment:
 
 Experiment 5: Text Processing
+
+#### Reading:
+
+Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans.* Chapters 2-3 and 11
 
 #### Canvas Discussion:
 
@@ -107,9 +118,17 @@ Discussion 5: Computational Texts
 
 ### Week 6: Supervised Learning: Training Data and Classification (10/7)
 
+*Tutorial:* Python Pandas and Labeling Data
+
 #### Assignment:
 
 Experiment 6: Training Data
+
+#### Reading:
+
+Andriy Burkov, *The Hundred-Page Machine Learning Book*
+
+Alison Parrish, *Articulations*
 
 #### Canvas Discussion:
 
@@ -117,7 +136,11 @@ Discussion 6.0: Training Data Set
 
 Discussion 6.1: Machine Poetry
 
-### Week 7: Unsupervised Learning: K-Means Clustering (10/14)
+### Week 7: Unsupervised Learning (10/14)
+
+*Lecture/Discussion:* Data and Machine Learning Concepts
+
+*Tutorial:* K-Means Clustering
 
 #### Assignment:
 
@@ -129,7 +152,7 @@ Discussion 7: Clustering Color: Outcomes
 
 ### Week 8: Deep Learning and Neural Networks (10/21)
 
-Introducing Keras and Google Collab
+*Tutorial:* Introducing Keras and Google Collab
 
 #### Assignment:
 
@@ -145,13 +168,15 @@ Discussion 8: Deep Learning Screenshots and Questions
 
 ### Week 9: Exploring Models and Tasks (10/28)
 
-Introducing Hugging Face Transformer library and Inference API
+*Tutorial:* Hugging Face Inference API and Transformers library 
 
 #### Assignment:
 
 Experiment 9: Exploring Tasks and Models on Hugging Face
 
 ### Week 10: Ethics 1: LLMs and Foundation Models--Testing, Evaluation, and Interpretation (11/4)
+
+*Lecture/Discussion*: AI/Machine Learning Concepts Revisted
 
 #### Assignment:
 
@@ -173,6 +198,9 @@ Discussion 9: Understanding LLMs
 
 ### Week 11: Ethics 2: AI Models--Risks and Uses (11/11)
 
+*Lecture/Discussion*: Understanding and Evaluating LLMs
+
+
 Final Projects: Presentations
 
 #### Reading:
@@ -189,35 +217,23 @@ Discussion 10: AI Ethics: Primary Concerns
 
 ### Week 12: Final Projects (11/18)
 
-Final Project LLMs Workshop: APIs, Prompt Engineering, Retrival Augemented Generation
+*Tutorial:* Final Project Workshop - Hugging Face Autotrain, LLMs APIs, Prompt Engineering, Retrival Augemented Generation
 
 #### Assignment:
 
 Final Projects continued
 
-### Week 13: Final Projects (11/18)
+### Week 13: Final Projects (11/25)
 
-Final Project LLMs Workshop: APIs, Prompt Engineering, Retrival Augemented Generation
+Final Project One-on-One Meetings
 
-#### Assignment:
+### Week 14: Final Speculations: Imagining AI/Imagination of AI (12/2)
 
-Final Projects continued
-
-### Week 14: Final Projects (12/2)
-
-*Share & Critique:* Final Project Designs
-
-*Lecture/Discussion:* Interface Design and User Experience
-
-*Tutorial:* Final Design checklist
-
-#### Assignment:
-
-Final Projects: Final Visualization
+*Discussion*: Ethics, Uses, Risks, and Futures
 
 ### Week 15: Final Projects (12/9)
 
-**Final Projects** Final Visualizations - Presentation & Critiques
+**Final Projects** Final Presentations
 
 
 
