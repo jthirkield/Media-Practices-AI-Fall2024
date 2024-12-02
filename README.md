@@ -34,11 +34,11 @@ Experiment 1: Generative AI Presentations
 
 Wendy Hui Kyong Chun, *Programmed Visions : Software and Memory -- Computers That Roar*
 
-Kate Crawford, *Atlas of AI : Power, Politics, and the Planetary Costs of Artificial Intelligence* -- Intro & https://anatomyof.ai/ (download and carefully read pdf visualization)
+Kate Crawford, *Atlas of AI : Power, Politics, and the Planetary Costs of Artificial Intelligence* Intro + https://anatomyof.ai/ (download and carefully read pdf visualization)
 
 N. Katherine Hayles: lecture 25min: https://www.youtube.com/watch?v=7iDL9yDH4ko
 
-N. Katherine Hayles, *Unthought : The Power of the Cognitive Nonconscious -- Prologue and Chapter 1*
+N. Katherine Hayles, *Unthought : The Power of the Cognitive Nonconscious* Prologue and Chapter 1
 
 #### Canvas Discussion:
 
@@ -110,7 +110,7 @@ Experiment 5: Text Processing
 
 #### Reading:
 
-Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans.* Chapters 2-3 and 11
+Melanie Mitchell, *Artificial Intelligence: A Guide for Thinking Humans.* Chapters 2, 3, and 11
 
 #### Canvas Discussion:
 
@@ -148,7 +148,7 @@ Experiment 7: Clustering Colors
 
 #### Canvas Discussion:
 
-Discussion 7: Clustering Color: Outcomes
+Discussion 7: Clustering Colors -- Outcomes and Insights
 
 ### Week 8: Deep Learning and Neural Networks (10/21)
 
@@ -160,7 +160,7 @@ Experiment 8: Deep Learning with Keras - Computer Vision/Image Classification
 
 #### Reading:
 
-François Chollet, *Deep Learning with Python*
+François Chollet, *Deep Learning with Python* Chapters 1, 2, and 8
 
 #### Canvas Discussion:
 
@@ -225,7 +225,7 @@ Final Projects continued
 
 ### Week 13: Final Projects (11/25)
 
-Final Project One-on-One Meetings
+Final Project Workshop
 
 ### Week 14: Final Speculations: Imagining AI/Imagination of AI (12/2)
 
